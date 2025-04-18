@@ -1,2 +1,2 @@
 # Bayesian Estimator VS. MLE & best classification algorithm for unknown-dataset
-Comparison between the 2 methods used to solve a variable estimation and classification problem &amp; combination of various classification algorithms such as: Decision Trees, SVMs, K-NN, MLP, Naïve Bayes, Random Forest, Voting and Stacking techniques to achieve high accuracy percentage in given dataset with unknown labels.
+This project was developed for 7th semester's Pattern Recognition course of Electrical Engineering and Computer Engineering Department of AuTH. More information about the 4 different tasks of the project is contained in file PR_Assignment_2024 (in Greek) 
